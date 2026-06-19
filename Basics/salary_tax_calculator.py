@@ -20,3 +20,9 @@ net = sal - tax
 
 print("Tax payable:", tax)
 print("Net salary:", net)
+
+
+# Example Output:
+# Enter salary: 600000
+# Tax payable: 10000.0
+# Net salary: 590000.0
