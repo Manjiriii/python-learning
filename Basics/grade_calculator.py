@@ -13,3 +13,7 @@ elif pct>=50:
     print("B grade")
 else:
     print("Try again")
+
+#Output:
+#Enter percentage: 96
+#O grade
