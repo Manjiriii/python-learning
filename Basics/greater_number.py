@@ -6,3 +6,8 @@ elif x<y:
     print("y is greater than x")
 else:
     print("x and y are equal")
+
+#Output
+#Enter x: 25
+#Enter y: 90
+#y is greater than x
