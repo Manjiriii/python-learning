@@ -8,3 +8,9 @@ elif y >= x and y >= z:
     print(y, "is the greatest")
 else:
     print(z, "is the greatest")
+
+#Output:
+#Enter x: 5
+#Enter y: 5
+#Enter z: 2
+#5 is the greatest
