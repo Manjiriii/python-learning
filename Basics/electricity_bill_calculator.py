@@ -13,3 +13,14 @@ else:
     total = 100 * 3 + 100 * 5 + r * 10
 
 print("Total amount payable:", total, "rupees")
+
+#Output-
+#Enter unit: 80
+#Total amount payable:  240 rupees
+
+#Enter unit: 150
+#Total amount payable:  550 rupees
+
+#Enter unit: 250
+#Total amount payable:  1300 rupees
+
